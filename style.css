@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(0, 255, 0);
+    color: rgb(242, 255, 0);
+}
+
+.name_of_objects {
+    color: yellow;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name, #result_object_accuracy {
+    color: yellow;
+}
